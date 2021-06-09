@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_facebook_login'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A Flutter plugin for allowing users to authenticate with native Android &amp; iOS Facebook login SDKs.'
   s.description      = <<-DESC
 A Flutter plugin for allowing users to authenticate with native Android &amp; iOS Facebook login SDKs.
